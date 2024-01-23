@@ -14,7 +14,7 @@ To install PyEarthly, you can use pip:
 
 ```bash
 
-pip install PyEarthly
+pip install -i https://test.pypi.org/simple/ PyEarthly==0.3.0
 
 
 ```
