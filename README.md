@@ -1,4 +1,4 @@
-(link)[https://github.com/SamMajumder/PyEarthly/blob/main/Images/PyEarthly-DALL-E.png]
+[link](https://github.com/SamMajumder/PyEarthly/blob/main/Images/PyEarthly-DALL-E.png)
 
 **Image Credits: The image(s) used in this project were created with the help of DALL-E, an AI system developed by OpenAI.**
 
